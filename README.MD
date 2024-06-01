@@ -23,7 +23,7 @@
 </p>
 
 <div align="center">
-    <audio src="output/Podcast_editado.MP3" controls title="Podcast editado"></audio>
+    <audio src="https://github.com/Mabylle/prompts-for-podcast-generate-by-ia/raw/main/output/Podecast_editado.MP3" controls title="Podcast editado"></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
