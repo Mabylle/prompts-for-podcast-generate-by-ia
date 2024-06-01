@@ -19,12 +19,13 @@
 </p>
 
 <p align="center">
-    preview do podcast
+    🎙️Preview do podcast:
 </p>
 
-<div align="center">
-    <audio src="https://github.com/Mabylle/prompts-for-podcast-generate-by-ia/raw/main/output/Podecast_editado.MP3" controls title="Podcast editado"></audio>
-</div>
+<p align="center">
+    <a href="https://github.com/Mabylle/prompts-for-podcast-generate-by-ia/raw/main/output/Podcast_editado.MP3" download="Podcast_editado.MP3">Clique aqui para baixar o podcast</a>
+</p>
+
 
 # Projeto Podcast Gerado por I.A.s
 
