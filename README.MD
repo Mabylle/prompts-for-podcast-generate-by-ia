@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./ouput/_25087b05-9e86-4567-92ee-7f64563c1b8d.jpg"
     width="300"
 />
 </p>
