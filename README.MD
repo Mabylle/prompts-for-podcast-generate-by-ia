@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./ouput/_25087b05-9e86-4567-92ee-7f64563c1b8d.jpg"
+    src="https://raw.githubusercontent.com/Mabylle/prompts-for-podcast-generate-by-ia/main/output/_25087b05-9e86-4567-92ee-7f64563c1b8d.jpg"
     width="300"
 />
 </p>
