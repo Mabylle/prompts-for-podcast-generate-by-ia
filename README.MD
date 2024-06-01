@@ -50,4 +50,4 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - Capcut para tratar aúdio e adicionar sons de fundo
 
 
-por [Mabylle](https://github.com/Mabylle)
+💻📚Por [Mabylle](https://github.com/Mabylle)
