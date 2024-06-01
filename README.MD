@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/Mabylle/prompts-for-podcast-generate-by-ia/raw/main/output/Podcast_editado.MP3" download="Podcast_editado.MP3">Clique aqui para baixar o podcast</a>
+    <a href="https://github.com/Mabylle/prompts-for-podcast-generate-by-ia/raw/main/output/Podecast_editado.MP3" download="Podcast_editado.MP3">Clique aqui para baixar o podcast</a>
 </p>
 
 
